@@ -1,0 +1,171 @@
+unvisitAll() is called.
+isPath() is called.  topCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+getNextCity() is called.  nextCityNum: 20
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+unvisitAll() is called.
+isPath() is called.  topCityNum: 14
+unvisitAll() is called.
+isPath() is called.  topCityNum: 9
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 3
+getNextCity() is called.  nextCityNum: 2
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 20
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+getNextCity() is called.  nextCityNum: 17
+getNextCity() is called.  nextCityNum: 11
+getNextCity() is called.  nextCityNum: 10
+getNextCity() is called.  nextCityNum: 8
+getNextCity() is called.  nextCityNum: 7
+getNextCity() is called.  nextCityNum: 14
+unvisitAll() is called.
+isPath() is called.  topCityNum: 7
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 5
+unvisitAll() is called.
+isPath() is called.  topCityNum: 17
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+unvisitAll() is called.
+isPath() is called.  topCityNum: 25
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+unvisitAll() is called.
+isPath() is called.  topCityNum: 3
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 11
+getNextCity() is called.  nextCityNum: 10
+getNextCity() is called.  nextCityNum: 9
+getNextCity() is called.  nextCityNum: 8
+unvisitAll() is called.
+isPath() is called.  topCityNum: 20
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 11
+unvisitAll() is called.
+isPath() is called.  topCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+getNextCity() is called.  nextCityNum: 20
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+unvisitAll() is called.
+isPath() is called.  topCityNum: 14
+unvisitAll() is called.
+isPath() is called.  topCityNum: 9
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 3
+getNextCity() is called.  nextCityNum: 2
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 20
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+getNextCity() is called.  nextCityNum: 17
+getNextCity() is called.  nextCityNum: 11
+getNextCity() is called.  nextCityNum: 10
+getNextCity() is called.  nextCityNum: 8
+getNextCity() is called.  nextCityNum: 7
+getNextCity() is called.  nextCityNum: 14
+unvisitAll() is called.
+isPath() is called.  topCityNum: 7
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 5
+unvisitAll() is called.
+isPath() is called.  topCityNum: 17
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+unvisitAll() is called.
+isPath() is called.  topCityNum: 25
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+unvisitAll() is called.
+isPath() is called.  topCityNum: 3
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 11
+getNextCity() is called.  nextCityNum: 10
+getNextCity() is called.  nextCityNum: 9
+getNextCity() is called.  nextCityNum: 8
+unvisitAll() is called.
+isPath() is called.  topCityNum: 20
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 11
+unvisitAll() is called.
+isPath() is called.  topCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+getNextCity() is called.  nextCityNum: 20
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+unvisitAll() is called.
+isPath() is called.  topCityNum: 14
+unvisitAll() is called.
+isPath() is called.  topCityNum: 9
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 3
+getNextCity() is called.  nextCityNum: 2
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 20
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+getNextCity() is called.  nextCityNum: 17
+getNextCity() is called.  nextCityNum: 11
+getNextCity() is called.  nextCityNum: 10
+getNextCity() is called.  nextCityNum: 8
+getNextCity() is called.  nextCityNum: 7
+getNextCity() is called.  nextCityNum: 14
+unvisitAll() is called.
+isPath() is called.  topCityNum: 7
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 5
+unvisitAll() is called.
+isPath() is called.  topCityNum: 17
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+getNextCity() is called.  nextCityNum: 26
+getNextCity() is called.  nextCityNum: 25
+unvisitAll() is called.
+isPath() is called.  topCityNum: 25
+getNextCity() is called.  nextCityNum: 19
+getNextCity() is called.  nextCityNum: 27
+unvisitAll() is called.
+isPath() is called.  topCityNum: 3
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 11
+getNextCity() is called.  nextCityNum: 10
+getNextCity() is called.  nextCityNum: 9
+getNextCity() is called.  nextCityNum: 8
+unvisitAll() is called.
+isPath() is called.  topCityNum: 20
+getNextCity() is called.  nextCityNum: 0
+getNextCity() is called.  nextCityNum: 5
+getNextCity() is called.  nextCityNum: 16
+getNextCity() is called.  nextCityNum: 11
